@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manthant\\source\\repos\\webApiCrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FC133F0-B749-4E84-BF44-5E20DDB87932}|webApiCrud\\webApiCrud.csproj|c:\\users\\manthant\\source\\repos\\webapicrud\\webapicrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3FC133F0-B749-4E84-BF44-5E20DDB87932}|webApiCrud\\webApiCrud.csproj|solutionrelative:webapicrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FC133F0-B749-4E84-BF44-5E20DDB87932}|webApiCrud\\webApiCrud.csproj|c:\\users\\manthant\\source\\repos\\webapicrud\\webapicrud\\model\\tblemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FC133F0-B749-4E84-BF44-5E20DDB87932}|webApiCrud\\webApiCrud.csproj|solutionrelative:webapicrud\\model\\tblemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FC133F0-B749-4E84-BF44-5E20DDB87932}|webApiCrud\\webApiCrud.csproj|c:\\users\\manthant\\source\\repos\\webapicrud\\webapicrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FC133F0-B749-4E84-BF44-5E20DDB87932}|webApiCrud\\webApiCrud.csproj|solutionrelative:webapicrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FC133F0-B749-4E84-BF44-5E20DDB87932}|webApiCrud\\webApiCrud.csproj|c:\\users\\manthant\\source\\repos\\webapicrud\\webapicrud\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FC133F0-B749-4E84-BF44-5E20DDB87932}|webApiCrud\\webApiCrud.csproj|solutionrelative:webapicrud\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TblEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\manthant\\source\\repos\\webApiCrud\\webApiCrud\\Model\\TblEmployee.cs",
+              "RelativeDocumentMoniker": "webApiCrud\\Model\\TblEmployee.cs",
+              "ToolTip": "C:\\Users\\manthant\\source\\repos\\webApiCrud\\webApiCrud\\Model\\TblEmployee.cs",
+              "RelativeToolTip": "webApiCrud\\Model\\TblEmployee.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T05:31:26.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\manthant\\source\\repos\\webApiCrud\\webApiCrud\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "webApiCrud\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\manthant\\source\\repos\\webApiCrud\\webApiCrud\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "webApiCrud\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T07:29:28.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manthant\\source\\repos\\webApiCrud\\webApiCrud\\Program.cs",
+              "RelativeDocumentMoniker": "webApiCrud\\Program.cs",
+              "ToolTip": "C:\\Users\\manthant\\source\\repos\\webApiCrud\\webApiCrud\\Program.cs",
+              "RelativeToolTip": "webApiCrud\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T07:18:20.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\manthant\\source\\repos\\webApiCrud\\webApiCrud\\appsettings.json",
+              "RelativeDocumentMoniker": "webApiCrud\\appsettings.json",
+              "ToolTip": "C:\\Users\\manthant\\source\\repos\\webApiCrud\\webApiCrud\\appsettings.json",
+              "RelativeToolTip": "webApiCrud\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-23T05:08:00.232Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
